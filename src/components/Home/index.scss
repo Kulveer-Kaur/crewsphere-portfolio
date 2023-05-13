@@ -125,4 +125,13 @@
     left: 0;
     margin: auto;
   }
+  .image {
+    position: absolute;
+
+    align-items: right;
+
+    img {
+      align-items: right;
+    }
+  }
 }
